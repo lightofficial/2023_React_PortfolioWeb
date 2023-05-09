@@ -1,8 +1,8 @@
 
 
 <div align="center">
-<h1> TODO LIST </h1>
-<h2> Training First Deploy </h2>
+<h1> LIGHT PORTFOLIO </h1>
+<h2> Training Second Deploy </h2>
 
 ---
 #### WEBSITE DEPLOY
