@@ -32,7 +32,11 @@ https://light-portfolio.netlify.app/
 
 ### :hammer_and_wrench: Languages and Tools
 <div>
-  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+</p>
 </div>
 
 </div>
