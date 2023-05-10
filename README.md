@@ -34,7 +34,7 @@ https://light-portfolio.netlify.app/
 <div>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=js,html,react,css" />
   </a>
 </p>
 </div>
@@ -43,7 +43,7 @@ https://light-portfolio.netlify.app/
 
 
 <div align="center">
-  ### :hammer_and_wrench: Personal
+  <h2> :hammer_and_wrench: Personal </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightofficial&show_icons=true&locale=en&layout=compact" alt="lightofficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lightofficial&show_icons=true&locale=en" alt="lightofficial" /></p>
