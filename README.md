@@ -10,6 +10,7 @@ https://light-portfolio.netlify.app/
 
   #### HOME PAGE
 [![Screenshot-2566-05-10-at-00-50-34.png](https://i.postimg.cc/gJQsKgmg/Screenshot-2566-05-10-at-00-50-34.png)](https://postimg.cc/qhc2JXtK)  
+  --
   #### ABOUT PAGE
   [![Screenshot-2566-05-10-at-00-50-46.png](https://i.postimg.cc/Yq1R1NVx/Screenshot-2566-05-10-at-00-50-46.png)](https://postimg.cc/D8w1hG7W)
   #### EDUCATION PAGE
