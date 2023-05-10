@@ -39,10 +39,10 @@ https://light-portfolio.netlify.app/
 
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightofficial&show_icons=true&locale=en&layout=compact" alt="lightofficial" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightofficial&show_icons=true&locale=en&layout=compact" alt="lightofficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lightofficial&show_icons=true&locale=en" alt="lightofficial" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lightofficial&" alt="lightofficial" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lightofficial&" alt="lightofficial" /></p>
   </div>
 
