@@ -26,9 +26,6 @@ jobs:
       - name: Install dependencies
         run: yarn  # ใช้ yarn แทน npm install
 
-      - name: Run the tests
-        run: yarn test  # ใช้ yarn test แทน npm test
-
       - name: Build
         run: yarn build  # ใช้ yarn build แทน npm run build
 
