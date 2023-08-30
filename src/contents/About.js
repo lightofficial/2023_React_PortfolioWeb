@@ -7,7 +7,7 @@ class About extends Component   {
         return(
             <div className='condiv about'>
                 <h1 className='subtopic'>About me</h1>
-                <img src={profilepic} className='profilepic'/>
+                <img src={profilepic} className='profilepic' alt=""/>
                 <h3>Hi, I am Thanat Prompiriya</h3>
                 <p>KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK</p>
             </div>
