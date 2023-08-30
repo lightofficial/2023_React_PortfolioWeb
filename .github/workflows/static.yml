@@ -24,13 +24,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install dependencies
-        run: npm install
+        run: yarn  # ใช้ yarn แทน npm install
 
       - name: Run the tests
-        run: npm test
+        run: yarn test  # ใช้ yarn test แทน npm test
 
       - name: Build
-        run: npm run build
+        run: yarn build  # ใช้ yarn build แทน npm run build
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
@@ -47,5 +47,5 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages  # Or any other branch you want to deploy to
-          folder: build  # The folder where your build output is located
+          branch: gh-pages  
+          folder: build  
